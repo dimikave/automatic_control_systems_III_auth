@@ -1,28 +1,24 @@
 -----------------------
-Semester Project Part A
+Semester Project Part B
 -----------------------
 
-------------------- CORRECTED VERSION WITH RAD INSTEAD OF DEG -------------------
+------------- CORRECTED VERSION WITH RAD INSTEAD OF DEG ---------------
 
 
 Project Description:
 
-- Running a simulation of a closed loop system (ode45)
-  i)with and ii)without a discontinuous nonlinearity
-  using a) step function b) ramp function
-  as input
-- Conclude about system stability
+- Trajectory Planning of 2-link Robot Manipulator using:
+  A) Feedback Linearization	B) Sliding Mode Control
+
 
 Files:
 
-- funcRamp.m: odefun for Ramp function input on the linear system
-- funcRampNonLin.m odefun for Ramp function input on the non linear system
-- funcUnit.m: odefun for Step function input on the linear system
-- funcUnitNonLin.m odefun for Step function input on the non linear system
-- phase_portrait.m: function for phase portrait plot
-- vectfield.m: vector field for system of 2 first order ODEs
-- vectfieldn.m vector field for system of 2 first order ODEs with arrows normalized to the same length
-- MainA.m: file running the simulation and generating diagrams
-- PartA.pdf: Report for the Project
+- InputTorque.m		: function simulating the input torque of the manipulator (F.L.)
+- InputTorqueB2.m	: function simulating the input torque of the manipulator (S.M.C.)
+- SmoothSign.m		: Smooth sign function as given by the project description
+- Vraxionas.m		: odefun describing the two link robot manipulator (F.L.)
+- VraxionasB2.m		: odefun describing the two link robot manipulator (S.M.C.)
+- MainB.m		: Main MATLAB file running the simulation and generating diagrams
+- Project_PartB.pdf	: Report for the Project (in Greek)
 
-Kavelidis Frantzis Dimitris								20/1/2021
+Kavelidis Frantzis Dimitris								20/1/2021						20/1/2021
