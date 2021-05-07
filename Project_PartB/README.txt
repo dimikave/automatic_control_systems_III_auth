@@ -1,5 +1,5 @@
 -----------------------
-Semester Project Part A
+Semester Project Part B
 -----------------------
 
 Project Description:
