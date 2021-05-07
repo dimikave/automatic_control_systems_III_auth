@@ -2,7 +2,7 @@
 Semester Project Part A
 -----------------------
 
-------------------- CORRECTED VERSION WITH RAD INSTEAD OF DEG -----------
+------------------- CORRECTED VERSION WITH RAD INSTEAD OF DEG -------------------
 
 
 Project Description:
