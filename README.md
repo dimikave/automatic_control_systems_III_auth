@@ -5,7 +5,7 @@ Project for Automatic Control Systems III Course / Aristotle University of Thess
 ### Description:
 
 - Running a simulation of a closed loop system (ode45)
-  i)with and ii)without a discontinuous nonlinearity
+  i) with and ii) without a discontinuous nonlinearity
   using a) step function b) ramp function
   as input
 - Conclude about system stability
