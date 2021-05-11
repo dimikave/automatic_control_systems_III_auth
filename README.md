@@ -2,11 +2,7 @@
 Project for Automatic Control Systems III Course / Aristotle University of Thessaloniki / Winter Semester 2020
 
 ## Part 1
------------------------
-Semester Project Part A
------------------------
-
-Project Description:
+### Description:
 
 - Running a simulation of a closed loop system (ode45)
   i)with and ii)without a discontinuous nonlinearity
