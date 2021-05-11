@@ -9,3 +9,9 @@ Project for Automatic Control Systems III Course / Aristotle University of Thess
   using a) step function b) ramp function
   as input
 - Conclude about system stability
+
+## Part 2
+### Description:
+
+- Trajectory Planning of 2-link Robot Manipulator using:
+  A) Feedback Linearization	B) Sliding Mode Control
