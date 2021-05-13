@@ -18,7 +18,7 @@ Trajectory Planning of 2-link Robot Manipulator using:
  - B) Sliding Mode Control
 
 ## Status of the project
-As of the completion of the project, it will probably NOT be maintained. Future projects regarding robot links and sliding mode control could be implemented using parts of this code though. It may hold inaccuracies and could be implemented in faster ways.
+As of the completion of the project, it will probably NOT be maintained. Future projects regarding robot links and sliding mode control could be implemented using parts of this code though. It may hold inaccuracies and could be implemented in more efficient ways regarding speed and recources management.
 
 ## Support - Contact
 Reach out to me:
