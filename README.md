@@ -16,3 +16,10 @@ Project for Automatic Control Systems III Course / Aristotle University of Thess
 Trajectory Planning of 2-link Robot Manipulator using:
  - A) Feedback Linearization	
  - B) Sliding Mode Control
+
+## Status of the project
+As of the completion of the project, it will NOT be maintained. By no means should it ever be considered stable or safe to use, as it may contain incomplete parts, critical bugs and security vulnerabilities.
+
+## Support - Contact
+Reach out to me:
+- dimitris.kave@gmail.com
