@@ -1,8 +1,8 @@
 -----------------------
-Semester Project Part A
+# Semester Project Part A
 -----------------------
 
-Project Description:
+## Project Description:
 
 - Running a simulation of a closed loop system (ode45)
   i)with and ii)without a discontinuous nonlinearity
@@ -10,7 +10,7 @@ Project Description:
   as input
 - Conclude about system stability
 
-Files:
+## Files:
 
 - funcRamp.m                      : odefun for Ramp function input on the linear system
 - funcRampNonLin.m                : odefun for Ramp function input on the non linear system
