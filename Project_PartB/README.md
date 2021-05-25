@@ -1,14 +1,14 @@
 -----------------------
-Semester Project Part B
+# Semester Project Part B
 -----------------------
 
-Project Description:
+## Project Description:
 
 - Trajectory Planning of 2-link Robot Manipulator using:
   A) Feedback Linearization	B) Sliding Mode Control
 
 
-Files:
+## Files:
 
 - InputTorque.m		: function simulating the input torque of the manipulator (F.L.)
 - InputTorqueB2.m	: function simulating the input torque of the manipulator (S.M.C.)
